@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1670528954 source:/home/mitimitiki/infirmitiki/menza/main.cpp
+	<iostream>
+	<cmath>
+
